@@ -33,8 +33,10 @@ All the test result should be in the directory: $root$/result/
 
 This code is highly inspired by the following:
 
-CycleGAN and pix2pix:
+cycleGAN and pix2pix:
 https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
 
-StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks
-https://github.com/hanzhanggit/StackGAN-Pytorch
+StackGAN: https://github.com/hanzhanggit/StackGAN-Pytorch
+
+Also, we highly appreciate the help from He Zhang on the Densely Generator "G2" in this code.
+
