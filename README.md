@@ -38,5 +38,5 @@ https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
 
 StackGAN: https://github.com/hanzhanggit/StackGAN-Pytorch
 
-Also, we highly appreciate the help from He Zhang on the Densely Generator "G2" in this code.
+Also, we highly appreciate the help from [He Zhang](https://github.com/hezhangsprinter) on the Densely Generator "G2" in this code.
 
