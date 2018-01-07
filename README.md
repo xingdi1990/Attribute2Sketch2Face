@@ -10,7 +10,7 @@ Pytorch
 ## Data:
 $root$ = attribute2sketch2face
 
-(1) please download the preprocessed [CelebA]and [LFWA] database by link: 
+(1) please download the preprocessed [CelebA] and [LFWA](https://www.dropbox.com/s/mif5bx3qsbym336/lfw.tar.gz?dl=0) database by link: 
 
 (2) extract them into $root$/dataset/
 
