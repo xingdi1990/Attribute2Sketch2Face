@@ -1,5 +1,6 @@
 # Attribute2Sketch2Face
-This repository is for our work on [Attribute2Sketch2Face:](https://arxiv.org/pdf/1801.00077.pdf).
+This repository is for our work on [Attribute2Sketch2Face: Face Synthesis from Visual Attributes via Sketch using
+Conditional VAEs and GANs](https://arxiv.org/pdf/1801.00077.pdf).
 
 ## Dependencies: 
 
