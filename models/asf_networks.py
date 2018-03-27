@@ -601,7 +601,7 @@ class Dense(nn.Module):
     def __init__(self, nt, gpu_ids=[]):
         super(Dense, self).__init__()
         self.ef_dim = nt
-
+        self.relu = nn.ReLU(inplace=True)
         ############# 64x64  ##############
         haze_class = models.densenet121(pretrained=True)
 
